@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(255, 210, 244);
+    color: rgb(0, 0, 0);
+    font-family: 'Coming Soon', cursive;
+}
+.header_div 
+{
+    text-align: center;
+    background-color: rgb(255, 148, 232);
+    color: rgb(121, 121, 121);
+    font-size: 30px;
+}
+.header_div p
+{
+    text-align: center;
+
+    letter-spacing: 2px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.main_div button
+{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    margin-top: 5px;
+
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: #aac3da;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
